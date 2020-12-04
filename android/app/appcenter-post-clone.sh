@@ -27,3 +27,5 @@ npm run build -- --prod
 npx cap sync
 
 npx cap update android
+
+npc cap copy
