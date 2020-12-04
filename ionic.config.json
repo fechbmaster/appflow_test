@@ -1,0 +1,8 @@
+{
+  "name": "appflow_test",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "vue",
+  "id": "77650db4"
+}
